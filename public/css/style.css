@@ -1,0 +1,21 @@
+/* Estilos*/
+.btn-guardar{
+    width: 85%;
+    padding: 10px;
+    background-color:  	#808080;
+    border: 2px;
+    border-radius: 5px;
+    box-sizing: content-box;
+    cursor: wait;
+    font-weight: bolder;
+    font-size: 25px;
+    color: #ff0000;
+  }
+  .btn-guardar:hover,.btn-guardar:active{
+    color:rgb(147, 112, 219);
+    background-color:#795013;
+    border-color:#527913;
+  }
+  .btn-guardar:focus{
+    box-shadow:0 0 0 3px rgba(147, 112, 219)
+  }
